@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+.clasp.json
+.claspignore
+
+# Local only: mock-environment test suite
+test/
+package.json
